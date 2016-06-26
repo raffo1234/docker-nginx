@@ -85,6 +85,12 @@ body.active, html.active{height: 100%;}
 
 
 
+/* PORTFOLIO */
+.portfolio{padding: 30px 0;}
+
+
+
+
 /* RESPONSIVE */
 @media only screen and (max-width : 1023px) {
 
